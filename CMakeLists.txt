@@ -12,11 +12,11 @@ catkin_python_setup()
 
 
 catkin_package(
-  INCLUDE_DIRS src/lab01
+
   INCLUDE_DIRS src/lab02
   INCLUDE_DIRS src/lab03
   INCLUDE_DIRS src/lab04
-  INCLUDE_DIRS src/lab05
+
 )
 
 include_directories(
