@@ -8,3 +8,5 @@
 *.pyc*.idea
 *.pyc*.idea
 *.pyc
+package.xml
+CMakeLists.txt
