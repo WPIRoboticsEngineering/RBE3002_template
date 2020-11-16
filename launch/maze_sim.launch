@@ -1,7 +1,7 @@
 <launch>
   <arg name="model" default="$(env TURTLEBOT3_MODEL)" doc="model type [burger, waffle, waffle_pi]"/>
-  <arg name="x_pos" default="0.30"/>
-  <arg name="y_pos" default="0.2"/>
+  <arg name="x_pos" default="0.40"/>
+  <arg name="y_pos" default="0.4"/>
   <arg name="z_pos" default="0.05"/>
   <arg name="maze"  default="maze2" />
 
