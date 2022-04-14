@@ -9,7 +9,6 @@ project(RBE3002_template)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rospy
-  rbe3002-turtlebot
 )
 
 ## System dependencies are found with CMake's conventions
